@@ -10,6 +10,11 @@ namespace ConsoleApp
             Console.WriteLine("What's your name:");
             string name = Console.ReadLine();
             Console.WriteLine($"Hello {name}!");
+
+            Console.WriteLine($"Commit 1");
+            Console.WriteLine($"Commit 2");
+            Console.WriteLine($"Commit 3");
+
             Console.ReadLine();
         }
     }
