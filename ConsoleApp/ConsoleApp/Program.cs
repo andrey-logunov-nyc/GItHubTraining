@@ -16,6 +16,7 @@ namespace ConsoleApp
             Console.WriteLine($"Commit 3");
 
             Console.WriteLine($"Feature 1");
+            Console.WriteLine($"Feature 1 2");
 
             Console.ReadLine();
         }
