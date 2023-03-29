@@ -1,2 +1,2 @@
 # GItHubTraining
-GitHUb Training
+GitHub Training
