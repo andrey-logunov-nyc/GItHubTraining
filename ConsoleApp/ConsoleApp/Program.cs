@@ -15,6 +15,9 @@ namespace ConsoleApp
             Console.WriteLine($"Commit 2");
             Console.WriteLine($"Commit 3");
 
+            Console.WriteLine(Operations.Add(1, 2));
+            Console.WriteLine(Messages.HELLO);
+
             Console.ReadLine();
         }
     }
