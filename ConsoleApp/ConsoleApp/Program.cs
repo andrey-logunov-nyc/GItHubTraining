@@ -18,6 +18,10 @@ namespace ConsoleApp
             Console.WriteLine(Operations.Add(1, 2));
             Console.WriteLine(Messages.HELLO);
 
+            Console.WriteLine($"Commit 1");
+            Console.WriteLine($"Commit 2");
+
+
             Console.ReadLine();
         }
     }
